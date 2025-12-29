@@ -53,9 +53,9 @@ This project is actively welcoming contributions — whether you’re:
   - Adding a new image processing tool 🧠
   - Refactoring or optimizing code ⚡
 
-## Discussions section: https://github.com/sarabhan/image-lab/discussions 
-## The project is open to questions, suggestions, issues, bugs etc. So feel free to communicate!
-## You can also create your own issues for ideas, suggestions, questions, bugs etc!
+Discussions: https://github.com/sarabhan/image-lab/discussions . 
+### The project is open to questions, suggestions, issues, bugs etc. So feel free to communicate!
+
 
 
 
