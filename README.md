@@ -1,4 +1,4 @@
-# 🖼️ Image processing lab – Mini Photoshop Web App
+# 🖼️ Image lab
 
 A lightweight, web-based image editing application inspired by basic Photoshop workflows.  
 Built with a **React frontend** and a **Python (OpenCV) backend**, this project allows users to apply real-time image processing operations through an intuitive UI.
@@ -55,4 +55,5 @@ This project is actively welcoming contributions — whether you’re:
 
 ## The discussions section of the repo: is open to questions, suggestions, issues, bugs etc. So feel free to communicate!
 ## You can also create your own issues, discussions!
+
 
